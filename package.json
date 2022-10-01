@@ -1,0 +1,14 @@
+{
+  "name": "profile-readme",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier -w README.md .github"
+  },
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
