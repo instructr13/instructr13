@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./images/mido.png" width="900" height="300">
+  <img src="./images/mido.png" width="540">
 </p>
 
 <p align="center">
