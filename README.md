@@ -8,11 +8,20 @@
 
 <p align="center">
   <a href="https://twitter.com/instructr13">
-    <img alt="Twitter: @instructr13" src="https://img.shields.io/badge/@instructr13-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    <img
+      alt="Twitter: @instructr13"
+      src="https://img.shields.io/badge/@instructr13-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+    >
   </a>
-  <img alt="Discord: mido13#8577" src="https://img.shields.io/badge/mido13%238577-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img
+    alt="Discord: mido13#8577"
+    src="https://img.shields.io/badge/mido13%238577-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+  >
   <a href="mailto:instructr13@gmail.com">
-    <img alt="Mail: instructr13@gmail.com" src="https://img.shields.io/badge/instructr13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img
+      alt="Mail: instructr13@gmail.com"
+      src="https://img.shields.io/badge/instructr13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    >
   </a>
 </p>
 
