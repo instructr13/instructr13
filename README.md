@@ -17,10 +17,10 @@
     alt="Discord: mido13#8577"
     src="https://img.shields.io/badge/mido13%238577-5865F2?style=for-the-badge&logo=discord&logoColor=white"
   >
-  <a href="mailto:instructr13@gmail.com">
+  <a href="mailto:mido@wycey.dev">
     <img
-      alt="Mail: instructr13@gmail.com"
-      src="https://img.shields.io/badge/instructr13@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Mail: mido@wycey.dev"
+      src="https://img.shields.io/badge/mido@wycey.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     >
   </a>
 </p>
