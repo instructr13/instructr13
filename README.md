@@ -27,7 +27,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-  he/him | coder | <strike>(pre)</strike> vimmer | hope for the <code>__future__</code>
+  coder | <strike>(pre)</strike> vimmer | hope for the <code>__future__</code>
 </p>
 
 <h2 align="center">Languages</h2>
